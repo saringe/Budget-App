@@ -28,7 +28,6 @@ const UIcontroller = (function (){
     }
 
   
-
 })();
  
 const appController = (function (budgetCtrl, UICtrl){
